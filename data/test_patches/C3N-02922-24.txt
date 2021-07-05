@@ -1,0 +1,16 @@
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r16385-c31236-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r10241-c28164-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r25089-c35332-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r19969-c34308-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r23553-c39429-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r18433-c18946-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r20993-c12290-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r16897-c19971-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r24065-c16386-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r19457-c41989-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r27138-c40453-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r20993-c39941-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r14337-c39941-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r8704-c34308-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r23041-c38917-512x512.png
+./data/test_patches/C3N-02922-24/C3N-02922-24-tile-r27138-c30212-512x512.png

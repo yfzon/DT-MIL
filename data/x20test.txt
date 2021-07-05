@@ -1,0 +1,6 @@
+c3l-02954-26,./data/extracted_20_feat_merge/c3l-02954-26.pkl,1
+c3n-02922-24,./data/extracted_20_feat_merge/c3n-02922-24.pkl,0
+c3l-02954-26,./data/extracted_20_feat_merge/c3l-02954-26.pkl,1
+c3n-02922-24,./data/extracted_20_feat_merge/c3n-02922-24.pkl,0
+c3l-02954-26,./data/extracted_20_feat_merge/c3l-02954-26.pkl,1
+c3n-02922-24,./data/extracted_20_feat_merge/c3n-02922-24.pkl,0
