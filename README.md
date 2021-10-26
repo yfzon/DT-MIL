@@ -1,13 +1,22 @@
 # DT-MIL
 
 This repository is an official PyTorch implementation of the paper 
-**"DT-MIL: Deformable Transformer for Multi-instance Learning on Histopathological Image"** [paper]() 
+**"DT-MIL: Deformable Transformer for Multi-instance Learning on Histopathological Image"** [paper](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_20) 
 from **MICCAI 2021**.
 
 ![](./figs/arch.png)
 
 ## Citation
-
+```bibtex
+@inproceedings{li2021dt,
+  title={DT-MIL: Deformable Transformer for Multi-instance Learning on Histopathological Image},
+  author={Li, Hang and Yang, Fan and Zhao, Yu and Xing, Xiaohan and Zhang, Jun and Gao, Mingxuan and Huang, Junzhou and Wang, Liansheng and Yao, Jianhua},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={206--216},
+  year={2021},
+  organization={Springer}
+}
+```
 
 
 ## Installation
